@@ -16,4 +16,6 @@ int main() {
   soma = nota1 + nota2 + nota3;
 
   printf("A media aritmetica eh %f", soma / 3);
+
+  return 0;
 }

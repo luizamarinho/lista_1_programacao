@@ -17,4 +17,6 @@ int main() {
   soma = n1 + n2 + n3 + n4;
 
   printf("A soma dos valores é %d", soma);
+
+  return 0;
 }

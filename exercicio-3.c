@@ -29,4 +29,6 @@ int main() {
           (peso1 + peso2 + peso3);
 
   printf("A média ponderada é %4.2f", media);
+
+  return 0;
 };

@@ -15,5 +15,7 @@ int main() {
   salario_ajust = salario + (salario * (aumento/100));
 
   printf("O salário com aumento é %5.2f", salario_ajust);
+
+  return 0;
 }
 
